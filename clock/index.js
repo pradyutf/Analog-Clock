@@ -1,4 +1,4 @@
-let isClockRunning = false;
+let isClockRunning = true;
 let clockInterval; 
 
 function startClock() {
